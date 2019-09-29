@@ -1,0 +1,26 @@
+@media only screen and (max-width: 32.5em){
+
+    #grids-box{
+        display: grid;
+        grid-template-columns: auto;
+        background-color: #bfc0c0;
+        padding: 10px;
+        margin: 10px;
+    }
+
+    h1{
+        font-size: 2em;
+    }
+    
+    h2, p{
+        font-size: 1em;
+    }
+
+    h3{
+        font-size: 2em;
+    }
+
+    .image{
+        width: 250px;
+    }
+}
