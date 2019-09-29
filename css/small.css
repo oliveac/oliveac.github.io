@@ -1,18 +1,18 @@
-#brown-box{
-    width: 100%;
+#red-box{
     background-color: rgb(160, 0, 15);
     text-align: center;
-    border-radius: 20px;
-    height: 80px;
     padding-top: 1px;
+    padding: 10px;
 }
 
 h1{
+    font-size: 1.5rem;
     color: white;
     text-align: center;
 }
 
 h2{
+    font-size: 1rem;
     text-align: center;
 }
 
@@ -22,21 +22,17 @@ body{
 
 #image-me{
     width: 150px;
-        float: right;
-        border: 2px ridge rgb(253, 252, 252);
-        margin-top: -50px;
-        margin-right: 20px;
-        border-radius: 20px;
+    border: 2px ridge rgb(253, 252, 252);
+    margin-right: 20px;
+    border-radius: 20px;
 }
 
 #footer{
-    width: 100%;
     background-color: rgb(160, 0, 15);
     text-align: center;
-    border-radius: 20px;
-    height: 80px;
     padding-top: 1px;
     color:white;
+    padding: 10px;
 }
 
 li{
